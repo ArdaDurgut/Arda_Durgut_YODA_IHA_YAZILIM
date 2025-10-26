@@ -31,7 +31,7 @@ git pull (değişiklikleri çekmek)
 ------------------------------------------------------
 git branch
 git switch
-git swtich -c İSİM (yeni branch)
+git swtich -c ISIM (yeni branch)
 
 
 
