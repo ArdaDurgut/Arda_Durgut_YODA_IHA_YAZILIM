@@ -109,5 +109,3 @@ git swtich -c İSİM (yeni branch)
 
 
 
-
-
