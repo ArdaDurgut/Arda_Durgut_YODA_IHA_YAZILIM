@@ -1,4 +1,4 @@
-GitHub Lesssons
+gGitHub Lesssons
 ------------------------------------------------------
 cd dizini ekle
 pwd dizin kontrolü
@@ -31,7 +31,7 @@ git pull (değişiklikleri çekmek)
 ------------------------------------------------------
 git branch
 git switch
-git swtich -c ISIM (yeni branch)
+git swtich -c İSİM (yeni branch)
 
 
 
