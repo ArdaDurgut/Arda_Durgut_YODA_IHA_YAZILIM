@@ -1,4 +1,4 @@
-gGitHub Lesssons
+GitHub Lesssons (Öğrendiğim kavramlar)
 ------------------------------------------------------
 cd dizini ekle
 pwd dizin kontrolü
