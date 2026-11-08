@@ -1,3 +1,3 @@
 # Arda_Durgut_YODA_IHA_YAZILIM
 
-//selam
+merhaba
