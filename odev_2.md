@@ -1,4 +1,5 @@
 GitHub Lesssons
+
 cd Komut satırında çalışmak istediğimiz klasöre girmek için kullanılır.
 
 pwd Şu anda bulunduğunuz klasörün/dizinin ne olduğunu gösterir.
